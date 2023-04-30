@@ -7,3 +7,6 @@ cd personal
 pwd
 ls
 pwd
+cd ../personal/./.././personal
+cd /Users/biswajitsen/workspace/js/boldahori
+pwd
